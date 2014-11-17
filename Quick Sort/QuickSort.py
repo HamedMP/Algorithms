@@ -63,10 +63,8 @@ def getMedian(array, begin, end):
 		return middle_index
 
 
-#array = array[0:10]
-#print(array)
 
-array = [2,3,1,4]
+#array = [2,3,1,4]
 QuickSort(array, 0, len(array))
 print array
 print counter

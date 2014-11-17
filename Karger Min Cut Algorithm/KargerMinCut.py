@@ -67,3 +67,9 @@ for i in range(0,iterations):
 
 print("Min value element : {} ".format(min(counts)))
 
+
+
+#updates one day
+#instead of looking through all the remaning lists in teh graph look at only the ones 
+#that are specified in that node that was changed
+
