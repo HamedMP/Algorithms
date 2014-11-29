@@ -10,4 +10,6 @@ Algorithms:
 - Merge Sort
 - Quick Sort
 - Randomzied Contraction Algorithm
+- Two Sum Algorithm
+- Median Maintenance
 
