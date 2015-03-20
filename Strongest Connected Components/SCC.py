@@ -9,7 +9,6 @@
 #to iterate use lists
 #When implementing DFS iteratively, you should use collections.deque for the stack, which is optimized for quickly appending and popping elements.
 
-import pandas as pandas
 import numpy as np
 from sys import argv
 from collections import defaultdict, deque
